@@ -1,4 +1,8 @@
-# Phase 0 — CONFLICT A
+<<<<<<< HEAD
+
+=======
+# Phase 0 — CONFLICT B
+>>>>>>> demo/conflict-b
 # Phase 0 — Git + Linux + Tooling -:
 
 ## My Git workflow (the one I will follow)  
