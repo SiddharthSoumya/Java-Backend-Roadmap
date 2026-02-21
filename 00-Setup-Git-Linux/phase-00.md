@@ -1,4 +1,4 @@
-# Phase 0 — Git + Linux + Tooling :
+# Phase 0 — Git + Linux + Tooling -:
 
 ## My Git workflow (the one I will follow)  
 - **branch naming:** `feature/<short-description>` or `bugfix/<ticket-number>`  
