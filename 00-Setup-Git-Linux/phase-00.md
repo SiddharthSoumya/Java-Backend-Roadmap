@@ -1,3 +1,4 @@
+# Phase 0 — CONFLICT B
 # Phase 0 — Git + Linux + Tooling -:
 
 ## My Git workflow (the one I will follow)  
